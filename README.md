@@ -1,0 +1,4 @@
+MagentoAjaxStock
+================
+
+MagentoAjaxStock
